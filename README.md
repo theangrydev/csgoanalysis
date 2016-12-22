@@ -1,0 +1,1 @@
+I was going to parse some Counter Strike: Global Offensive files in Java, but it turns out there is a better .NET library already (see https://github.com/StatsHelix/demoinfo)
